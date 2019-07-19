@@ -1,0 +1,4 @@
+[25-Jan-2017 11:03:23 America/New_York] PHP Fatal error:  Class 'Facebook\GraphNodes\GraphNode' not found in /home/boibzrpg/public_html/src/Facebook/GraphNodes/GraphAchievement.php on line 33
+[25-Jan-2017 11:03:28 America/New_York] PHP Fatal error:  Class 'Facebook\GraphNodes\GraphNode' not found in /home/boibzrpg/public_html/src/Facebook/GraphNodes/GraphAlbum.php on line 33
+[25-Jan-2017 11:03:49 America/New_York] PHP Fatal error:  Class 'Facebook\GraphNodes\GraphNode' not found in /home/boibzrpg/public_html/src/Facebook/GraphNodes/GraphPage.php on line 32
+[25-Jan-2017 11:03:56 America/New_York] PHP Fatal error:  Class 'Facebook\GraphNodes\GraphNode' not found in /home/boibzrpg/public_html/src/Facebook/GraphNodes/GraphUser.php on line 32
